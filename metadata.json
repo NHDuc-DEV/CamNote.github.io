@@ -1,0 +1,6 @@
+{
+  "name": "CamNote - Quản Lý Ghi Chú Cá Nhân",
+  "description": "Ứng dụng quản lý ghi chú cá nhân hiện đại với giao diện cam trắng thanh lịch, hỗ trợ phân loại thư mục, thẻ tags, danh sách việc cần làm và lưu trữ dữ liệu an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
